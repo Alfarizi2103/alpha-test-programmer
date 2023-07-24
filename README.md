@@ -17,7 +17,7 @@
 - php artisan migrate
 - php artisan serve
 - jalankan 127.0.0.1:8000/ pada browser
-- 
+
 ## Cara Menjalankan Program Api
 - git clone <url repository>
 - composer install
